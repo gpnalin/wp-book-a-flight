@@ -1,0 +1,22 @@
+.autocomplete-suggestions { border: 1px solid #fff; background: #1c1c1c; color: #fff; cursor: default; overflow: auto; }
+.autocomplete-suggestion { padding: 8px 5px;  white-space: nowrap; overflow: hidden; border-bottom: 1px solid #fff; }
+.autocomplete-selected { background: #a40c37; }
+.autocomplete-suggestions strong { font-weight: normal; color: #d3d3d3; }
+
+#raq-form .help-block{margin: 0;}
+#raq-form .help-block ul{margin: 0;}
+#raq-form .help-block li{ font-size: 80%; color: #FF3300; }
+
+#raq-form .form-control-feedback:before{ line-height: 1; position: absolute; top: 5px; right: 5px; color: #FF3300; font-size: 115%; }
+
+.hide-this{display: none;}
+
+h2.form-msg{ 
+  padding: 15px !important;
+  border: none !important;
+  margin: 0 !important; 
+  text-transform: initial !important;
+  line-height: 1.5 !important;
+}
+h2#success{color: #00CC66;}
+h2#error{color: #FF3300;}
